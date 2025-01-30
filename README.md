@@ -19,8 +19,7 @@ An intelligent chatbot built with Flask and OpenAI, featuring real-time voice co
 - 🔒 Secure API key handling
 
 ## 🚀 Live Demo
-
-[Add your live demo link here]
+https://youtu.be/98l1ebq15H0?si=LnK5dEJ-v0s8L6yC
 
 ## 🛠️ Technologies Used
 
@@ -47,8 +46,8 @@ An intelligent chatbot built with Flask and OpenAI, featuring real-time voice co
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-assistant-chatbot.git
-cd ai-assistant-chatbot
+git clone https://github.com/muhammadusman93333/chatbot-flask-app.git
+cd chatbot-flask-app
 ```
 
 2. Install dependencies:
@@ -58,7 +57,7 @@ pip install -r requirements.txt
 
 3. Set up environment variables:
 ```bash
-cp .env.example .env
+
 # Edit .env file and add your OpenAI API key
 ```
 
@@ -96,7 +95,6 @@ Configure the application through the `.env` file:
 
 ```plaintext
 OPENAI_API_KEY=your_api_key_here
-SECRET_KEY=your_secret_key
 ```
 
 ## 🤝 Contributing
@@ -119,9 +117,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/ai-assistant-chatbot](https://github.com/yourusername/ai-assistant-chatbot)
+Email: muhammad.usman93333@gmail.com
 
 ## 🔍 Keywords
 
